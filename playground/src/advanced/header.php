@@ -1,0 +1,1 @@
+<?php include('../basic/db.php'); ?>
